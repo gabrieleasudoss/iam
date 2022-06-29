@@ -4,7 +4,7 @@
 
 Hey there 👋
 
-Full Stack Software Developer skilled at technical leadership, communication, and presentations and experienced in the full project life cycle from design to implementation to integration with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. Highly skilled technical expert with a demonstrated history of working in information technology. Expert in establishing a project plan and managing to complete the organization's approach to the entire life cycle of the cloud and digital projects, including planning and initiation through execution. Monitoring, control, and completion. Skilled in community organizing and project coordination, acquired knowledge from University education and former positions.
+I am Gabriel, Full Stack Software Developer skilled at technical leadership, communication, and presentations and experienced in the full project life cycle from design to implementation to integration with a vast array of knowledge in many different front end and back end languages, responsive frameworks, databases, and best code practices. Highly skilled technical expert with a demonstrated history of working in information technology. Expert in establishing a project plan and managing to complete the organization's approach to the entire life cycle of the cloud and digital projects, including planning and initiation through execution. Monitoring, control, and completion. Skilled in community organizing and project coordination, acquired knowledge from University education and former positions.
 
 Want to know more about me? [Check out my portfolio.](https://github.com/gabrielrufus)
 
@@ -64,19 +64,3 @@ Want to know more about me? [Check out my portfolio.](https://github.com/gabriel
 </details>
 
 <br>
-
-## 📣 How about an Office quote before you go?
-
-> It has to be official, and it has to be urine.
->
-> <p>- Dwight Schrute</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
